@@ -7,6 +7,7 @@ docker-compose \
 \
 -f demo/apache2-nginx-php5.6/docker/docker-compose.yml \
 -f demo/apache2-nginx-php7.0/docker/docker-compose.yml \
+-f demo/apache2-nginx-php7.2/docker/docker-compose.yml \
 -f demo/database/docker/docker-compose.yml \
 \
 -f prod/apache2-nginx-php5.6/docker/docker-compose.yml \
